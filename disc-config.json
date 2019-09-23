@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=IwPZWVEDZxk",
+        "name": "Layer Cake",
+        "artist": "Atlus",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=RKURlfskGsE",
+        "name": "Showtime",
+        "artist": "Homestuck",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=WvAAOmoEftg",
+        "name": "Wood Man Stage",
+        "artist": "Capcom",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "name": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "soundId": "sound.mcdisc.4"
+    }
+]
